@@ -1,2 +1,3 @@
 venv/
  _pychache__/
+ app/__pycache__/
